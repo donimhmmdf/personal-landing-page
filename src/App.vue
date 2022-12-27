@@ -1,26 +1,31 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <Navbar></Navbar>
+  <Hero></Hero>
+  <About></About>
+  <Portfolio></Portfolio>
+  <Conctact />
+  <footer class="py-1 bottom-0 w-full text-center bg-primary text-tri">
+    <h2>©Copyright 2022</h2>
+  </footer>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Navbar from "./components/Navbar.vue";
+import Hero from "./components/Hero.vue";
+import About from "./components/About.vue";
+import Portfolio from "./components/Portfolio.vue";
+import Conctact from "./components/Conctact.vue";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    HelloWorld
-  }
-}
+    Navbar,
+    Hero,
+    About,
+    Portfolio,
+    Conctact,
+  },
+};
 </script>
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>
+<style></style>
