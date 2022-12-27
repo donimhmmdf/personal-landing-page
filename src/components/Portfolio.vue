@@ -164,6 +164,13 @@ export default {
           img: "catalog.png",
           url: "https://catalog-ecommerce.netlify.app/",
         },
+        {
+          id: 4,
+          name: "TODO Application",
+          description: "To Do List Application",
+          img: "todo.png",
+          url: "https://catalog-ecommerce.netlify.app/",
+        },
       ],
     };
   },
