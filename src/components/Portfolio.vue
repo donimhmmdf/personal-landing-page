@@ -80,7 +80,7 @@ export default {
           name: "TODO Application",
           description: "To Do List Application",
           img: "todo.png",
-          url: "https://catalog-ecommerce.netlify.app/",
+          url: "https://todolist-app-vue.netlify.app/",
         },
       ],
     };
