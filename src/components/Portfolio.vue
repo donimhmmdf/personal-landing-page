@@ -82,6 +82,13 @@ export default {
           img: "todo.png",
           url: "https://todolist-app-vue.netlify.app/",
         },
+        {
+          id: 5,
+          name: "Cashier Application",
+          description: "Cashier Ppplication",
+          img: "kasir.png",
+          url: "https://kulineran-vue.netlify.app/",
+        },
       ],
     };
   },
