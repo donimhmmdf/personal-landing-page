@@ -41,27 +41,6 @@
                     >{{ nav }}</a
                   >
                 </li>
-                <!-- <li class="group">
-                  <a
-                    href="#about"
-                    class="text-base text-dark py-2 mx-8 flex group-hover:text-primary"
-                    >About</a
-                  >
-                </li>
-                <li class="group">
-                  <a
-                    href="#portfolio"
-                    class="text-base text-dark py-2 mx-8 flex group-hover:text-primary"
-                    >Portofolio
-                  </a>
-                </li>
-                <li class="group">
-                  <a
-                    href="#contact"
-                    class="text-base text-dark py-2 mx-8 flex group-hover:text-primary"
-                    >Contact</a
-                  >
-                </li> -->
               </ul>
             </nav>
           </div>

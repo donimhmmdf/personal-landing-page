@@ -85,7 +85,7 @@ export default {
         {
           id: 5,
           name: "Cashier Application",
-          description: "Cashier Ppplication",
+          description: "Cashier Application",
           img: "kasir.png",
           url: "https://kulineran-vue.netlify.app/",
         },
