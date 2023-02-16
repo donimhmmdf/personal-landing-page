@@ -9,7 +9,7 @@ html {
 
 body {
   font-family: "Inter", sans-serif;
-  background-color: #eafdfc;
+  background-color: #fff;
 }
 .navbarFix {
   @apply fixed z-[999];

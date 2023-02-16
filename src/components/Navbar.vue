@@ -1,7 +1,7 @@
 <template>
   <header id="header">
     <div
-      class="bg-tri bg-opacity-75 backdrop-blur-sm top-0 left-0 w-full flex items-center z-10 fixed"
+      class="bg-white bg-opacity-75 backdrop-blur-sm top-0 left-0 w-full flex items-center z-10 fixed"
     >
       <div class="container">
         <div class="flex items-center justify-between relative">
